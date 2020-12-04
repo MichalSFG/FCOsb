@@ -17,4 +17,5 @@ public class TargetSeat {
 
     @ManyToOne
     private Seat seat;
+
 }
